@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm ANA THike
 
-<!--
-**ANA-THike/ANA-THike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I create tools, scripts, and AI-powered projects blending Python, PowerShell, and security research.
 
-Here are some ideas to get you started:
+### 🚀 Projects
+- **[Prompt-AI](https://github.com/ANA-THike/prompt-ai)** – Chat with Google Gemini via PowerShell.
+- **[GPS Location Services](https://github.com/ANA-THike/gps-location-services)** – Fetch GPS data on Windows using PowerShell.
+- More coming soon...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech I Work With
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+
+### 📈 GitHub Stats
+![ANA THike's GitHub stats](https://github-readme-stats.vercel.app/api?username=ANA-THike&show_icons=true&theme=tokyonight)
+
+---
+
+🔧 Always building. Always learning.
