@@ -12,11 +12,10 @@
 - **[GPS Location Services](https://github.com/ANA-THike/gps-location-services)**  
   Enable and retrieve GPS coordinates on Windows using PowerShell.
 
-- **[ANA-THike.github.io](https://github.com/ANA-THike/ANA-THike.github.io)**  
-  Personal GitHub Pages site—showcasing projects and updates.
+- **[Keylogger](https://github.com/ANA-THike/keylogger)**  
+  A simple Python-based keylogger for monitoring keystrokes—built for educational and research purposes.
 
-- **[ANA](https://github.com/ANA-THike/ANA)**  
-  Core scripts and experimental tools for automation and system interaction.
+> 🛠️ *More coming soon...*
 
 ---
 
